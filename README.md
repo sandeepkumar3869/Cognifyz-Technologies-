@@ -7,7 +7,7 @@ During my internship at Cognifyz, I worked on a comprehensive data analysis proj
 
 **Repository Link:** 
 
-**Tasks Completed:**
+**Tasks Completed:**https://github.com/sandeepkumar3869/Cognifyz-Technologies-
 
 **1. Data Exploration and Preprocessing:**
 - Explored the dataset to identify its dimensions.
